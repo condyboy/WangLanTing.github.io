@@ -12,3 +12,4 @@ categories: git
 
 ## 遇到的问题
 1、上传时要先将themes中的.git文件删除，如果先上传再删除的话，需要先清空一下git中的缓存`git rm -rf -- cached 你想清除缓存的目录`，再使用`git add -A`上传修改后的部分即可。
+2、多台电脑更新步骤  `git pull`、`git add -A`、`git commit -m "内容"`、`git push origin hexo`
