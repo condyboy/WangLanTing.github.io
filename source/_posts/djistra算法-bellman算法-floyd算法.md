@@ -6,7 +6,8 @@ categories: 算法
 ---
 # djistra算法+bellman算法+floyd算法
 ## djistra算法
-
+图如下：
+![图](djistra算法-bellman算法-floyd算法/1572259952(1).jpg)
 算法原理：
 贪心策略
 1、将开始节点加入S集合
